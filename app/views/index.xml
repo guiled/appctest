@@ -1,0 +1,7 @@
+<Alloy>
+	<NavigationWindow>
+		<Window class="container" onClose="closeA" title="A">
+			<Button onClick="openB">Open B</Button>
+		</Window>		
+	</NavigationWindow>
+</Alloy>

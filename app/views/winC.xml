@@ -1,0 +1,5 @@
+<Alloy>
+	<Window onClose="closeC" title="C">
+		<Button onClick="clickCloseB">Close C</Button>
+	</Window>
+</Alloy>

@@ -1,0 +1,6 @@
+<Alloy>
+	<Window onClose="closeB" title="B">
+		<Button onClick="openC" top="200">Open C without delayed closing B</Button>
+		<Button onClick="openCDelay" top="250">Open C with delayed closing B</Button>
+	</Window>
+</Alloy>
